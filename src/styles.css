@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.style-button {
+  padding: 5px 10px;
+  color: blue;
+  font-size: 18px;
+}
+.show-answer {
+  padding: 5px;
+  color: red;
+  font-size: 18px;
+}
+.disable-button {
+  font-size: 18px;
+}
+.button-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 25px;
+}
+.option-container {
+  margin-top: 25px;
+  font-size: 18px;
+  text-align: center;
+}
+.question-container {
+  font-size: 18px;
+  text-align: center;
+}
