@@ -1,2 +1,2 @@
-# brave
+# quiz application
 Created with CodeSandbox
